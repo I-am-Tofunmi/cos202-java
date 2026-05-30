@@ -1,4 +1,4 @@
-# COS 202 — Computer Programming II (Java)
+# COS 202 — Computer Programming II
 
 Personal study notes and practice code for COS 202 at UNILAG. Covering each topic with hands-on exercises.
 
@@ -6,7 +6,7 @@ Personal study notes and practice code for COS 202 at UNILAG. Covering each topi
 | Topic | Concept | Status |
 |-------|---------|--------|
 | 01 | Java basics — data types, operators, control flow, methods | ✅ |
-| 02 | OOP — classes, objects, constructors | 🔜 |
+| 02 | OOP — classes, objects, constructors, encapsulation | ✅ |
 | 03 | Inheritance & polymorphism | 🔜 |
 | 04 | Abstract classes & interfaces | 🔜 |
 | 05 | Packages & Collections API | 🔜 |
