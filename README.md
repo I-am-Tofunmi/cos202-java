@@ -3,18 +3,18 @@
 Personal study notes and practice code for COS 202 at UNILAG. Covering each topic with hands-on exercises.
 
 ## Progress
-| Topic | Concept | Status |
-|-------|---------|--------|
-| 01 | Java basics — data types, operators, control flow, methods | ✅ |
-| 02 | OOP — classes, objects, constructors, encapsulation | ✅ |
-| 03 | Inheritance & polymorphism | 🔜 |
-| 04 | Abstract classes & interfaces | 🔜 |
-| 05 | Packages & Collections API | 🔜 |
-| 06 | Searching & sorting | 🔜 |
-| 07 | Recursion | 🔜 |
-| 08 | Exception handling | 🔜 |
-| 09 | Event-driven programming | 🔜 |
-| 10 | GUI programming | 🔜 |
+| Week | Topic | Status |
+|------|-------|--------|
+| 01 | Introduction to Java | ✅ |
+| 02 | Variables, Data Types, Operators & Expressions | 🔄 |
+| 03 | Control Structures & Methods | 🔜 |
+| 04 | String Manipulation & Arrays | 🔜 |
+| 05 | Classes & Objects | 🔜 |
+| 06 | Encapsulation, Inheritance, Polymorphism, Abstraction | 🔜 |
+| 07 | Linear Data Structures | 🔜 |
+| 08 | Searching, Sorting & Recursion | 🔜 |
+| 09 | Exception Handling & Event Management | 🔜 |
+| 10 | GUI Programming | 🔜 |
 
 ## Tools
 Java 25 (Temurin) · VSCode
