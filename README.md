@@ -6,7 +6,7 @@ Personal study notes and practice code for COS 202 at UNILAG. Covering each topi
 | Week | Topic | Status |
 |------|-------|--------|
 | 01 | Introduction to Java | ✅ |
-| 02 | Variables, Data Types, Operators & Expressions | 🔄 |
+| 02 | Variables, Data Types, Operators & Expressions | ✅ |
 | 03 | Control Structures & Methods | 🔜 |
 | 04 | String Manipulation & Arrays | 🔜 |
 | 05 | Classes & Objects | 🔜 |
