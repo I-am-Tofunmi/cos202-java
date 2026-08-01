@@ -2,6 +2,9 @@ public class Floatingpoint {
     public static void main(String[] args) {
         double myDouble = 3.4;
         float myFloat = 3.4F;
+        char letter = 'A';
+        String str1 = "Java Programming";
+        boolean flag1 = false;
 
         // 3.445 * 10^2
         double myDoubleScientific = 3.445e2;

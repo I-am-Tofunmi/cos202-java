@@ -25,7 +25,7 @@ class Circle extends Polygon {
 class Polymorphism {
     public static void main(String[] args) {
 
-        // create an object of Square
+        // create an object of Square 
         Square s1 = new Square();
         s1.render();
 
