@@ -11,8 +11,8 @@ Personal study notes and practice code for COS 202 at UNILAG. Covering each topi
 | 04 | Arrays & Multidimensional Arrays | ✅ |
 | 05 | String Manipulation & Classes & Objects | ✅ |
 | 06 | Encapsulation, Inheritance, Polymorphism, Abstraction | ✅ |
-| 07 | Linear Data Structures | 🔄 |
-| 08 | Searching, Sorting & Recursion | 🔜 |
+| 07 | Linear Data Structures | ✅ |
+| 08 | Searching, Sorting & Recursion | 🔄 |
 | 09 | Exception Handling & Event Management | 🔜 |
 | 10 | GUI Programming | 🔜 |
 
